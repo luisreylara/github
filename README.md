@@ -10,7 +10,7 @@ https://www.udemy.com/course/git-github/
 ## La organización del curso va profundizando en los temas de la siguiente manera:
 
 * Fundamentos de Git   
-* emas un poco más complejos y útiles de Git   
+* Temas un poco más complejos y útiles de Git   
 * Control del repositorio local y remoto   
 * Viajes en el tiempo
 * Recuperación en caso de perdida del proyecto
