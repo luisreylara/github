@@ -24,4 +24,5 @@ https://www.udemy.com/course/git-github/
 
 ## [Tutorial de Markdown:](https://www.markdowntutorial.com/)
 ## [GitHub Markdown sheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+## [GitHub Markdown sheet2 : (]https://github.com/luisreylara/github/blob/main/files/markdown-cheatsheet-online.pdf)
 ## [Emojis de GitHub](https://www.webfx.com/tools/emoji-cheat-sheet/)
